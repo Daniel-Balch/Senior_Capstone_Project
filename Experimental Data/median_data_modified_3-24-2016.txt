@@ -1,0 +1,57 @@
+Medians from original data:
+Position 1 : 4.38 meters
+Position 2 : 1.425 meters
+Position 3 : 3.96 meters
+Position 4 : 2.46 meters
+Position 5 : 3.3 meters
+Position 6 : 3.09 meters
+Position 7 : 3.57 meters
+Position 8 : 3.06 meters
+Position 9 : 4.395 meters
+Position 10 : 4.23 meters
+Position 11 : 3.18 meters
+Position 12 : 2.655 meters
+Position 13 : 3.3 meters
+Position 14 : 2.415 meters
+Position 15 : 3.255 meters
+Position 16 : 4.29 meters
+Position 17 : 3.87 meters
+Position 18 : 3.33 meters
+Position 19 : 3.945 meters
+Position 20 : 2.82 meters
+Position 21 : 3.0149999999999997 meters
+Position 22 : 5.324999999999999 meters
+Position 23 : 3.42 meters
+
+Medians from filtered data:
+Position 1 : 5.22 meters
+Position 2 : 4.2 meters
+Position 3 : 4.29 meters
+Position 4 : 3.3 meters
+Position 5 : 5.04 meters
+Position 6 : 5.745 meters
+Position 7 : 3.96 meters
+Position 8 : 4.035 meters
+Position 9 : 5.55 meters
+Position 10 : 5.3100000000000005 meters
+Position 11 : 4.38 meters
+Position 12 : 4.965 meters
+Position 13 : 3.3 meters
+Position 14 : 3.66 meters
+Position 15 : 3.585 meters
+Position 16 : 6.33 meters
+Position 17 : 4.92 meters
+Position 18 : 3.495 meters
+Position 19 : 4.8 meters
+Position 20 : 3.27 meters
+Position 21 : 4.26 meters
+Position 22 : 5.7 meters
+Position 23 : 3.6 meters
+
+
+Original Data Array: [4.38 1.425 3.96 2.46 3.3 3.09 3.57 3.06 4.395 4.23 3.18 2.655 3.3 2.415 3.255 4.29 3.87 3.33 3.945 2.82 3.0149999999999997 5.324999999999999 3.42]
+
+
+Filtered Data Array: [5.22 4.2 4.29 3.3 5.04 5.745 3.96 4.035 5.55 5.3100000000000005 4.38 4.965 3.3 3.66 3.585 6.33 4.92 3.495 4.8 3.27 4.26 5.7 3.6]
+
+

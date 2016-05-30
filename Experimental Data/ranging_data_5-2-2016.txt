@@ -1,0 +1,574 @@
+calibrated at syslag 35e-9
+[x = -30"]
+Run 1 Distance: 1.860 meters
+Run 2 Distance: 2.400 meters
+Run 3 Distance: 2.430 meters
+Run 4 Distance: 2.700 meters
+Run 5 Distance: 1.830 meters
+Run 6 Distance: 2.160 meters
+Run 7 Distance: 2.940 meters
+Run 8 Distance: 2.610 meters
+Run 9 Distance: 2.430 meters
+Run 10 Distance: 2.670 meters
+Run 11 Distance: 2.340 meters
+Run 12 Distance: 2.970 meters
+Run 13 Distance: 2.190 meters
+Run 14 Distance: 3.000 meters
+Run 15 Distance: 2.370 meters
+Median distance: 2.430 meters
+--
+Run 1 Distance: 2.610 meters
+Run 2 Distance: 2.700 meters
+Run 3 Distance: 2.640 meters
+Run 4 Distance: 2.280 meters
+Run 5 Distance: 4.140 meters
+Run 6 Distance: 2.400 meters
+Run 7 Distance: 2.490 meters
+Run 8 Distance: 2.460 meters
+Run 9 Distance: 1.500 meters
+Run 10 Distance: 2.700 meters
+Run 11 Distance: 2.160 meters
+Run 12 Distance: 2.280 meters
+Run 13 Distance: 2.070 meters
+Run 14 Distance: 2.520 meters
+Run 15 Distance: 2.850 meters
+Median distance: 2.490 meters
+--
+Run 1 Distance: 1.890 meters
+Run 2 Distance: 2.100 meters
+Run 3 Distance: 2.460 meters
+Run 4 Distance: 2.760 meters
+Run 5 Distance: 2.070 meters
+Run 6 Distance: 1.110 meters
+Run 7 Distance: 2.280 meters
+Run 8 Distance: 2.070 meters
+Run 9 Distance: 2.160 meters
+Run 10 Distance: 3.630 meters
+Run 11 Distance: 2.280 meters
+Run 12 Distance: 2.430 meters
+Run 13 Distance: 2.460 meters
+Run 14 Distance: 2.280 meters
+Run 15 Distance: 2.310 meters
+Median distance: 2.280 meters
+-------------------------------
+[x = -24"]
+Run 1 Distance: 2.340 meters
+Run 2 Distance: 0.960 meters
+Run 3 Distance: 2.520 meters
+Run 4 Distance: 3.510 meters
+Run 5 Distance: 2.100 meters
+Run 6 Distance: 2.340 meters
+Run 7 Distance: 2.040 meters
+Run 8 Distance: 2.340 meters
+Run 9 Distance: 2.340 meters
+Run 10 Distance: 2.370 meters
+Run 11 Distance: 1.170 meters
+Run 12 Distance: 2.100 meters
+Run 13 Distance: 2.310 meters
+Run 14 Distance: 2.370 meters
+Run 15 Distance: 2.820 meters
+Median distance: 2.340 meters
+--
+Run 1 Distance: 2.460 meters
+Run 2 Distance: 2.580 meters
+Run 3 Distance: 2.310 meters
+Run 4 Distance: 2.520 meters
+Run 5 Distance: 2.130 meters
+Run 6 Distance: 2.250 meters
+Run 7 Distance: 2.490 meters
+Run 8 Distance: 2.250 meters
+Run 9 Distance: 2.400 meters
+Run 10 Distance: 2.370 meters
+Run 11 Distance: 3.480 meters
+Run 12 Distance: 3.960 meters
+Run 13 Distance: 2.070 meters
+Run 14 Distance: 2.550 meters
+Run 15 Distance: 2.340 meters
+Median distance: 2.400 meters
+--
+un 1 Distance: 2.370 meters
+Run 2 Distance: 1.890 meters
+Run 3 Distance: 1.170 meters
+Run 4 Distance: 2.520 meters
+Run 5 Distance: 2.610 meters
+Run 6 Distance: 2.130 meters
+Run 7 Distance: 3.900 meters
+Run 8 Distance: 2.670 meters
+Run 9 Distance: 3.690 meters
+Run 10 Distance: 2.460 meters
+Run 11 Distance: 3.540 meters
+Run 12 Distance: 2.130 meters
+Run 13 Distance: 2.280 meters
+Run 14 Distance: 2.730 meters
+Run 15 Distance: 2.370 meters
+Median distance: 2.460 meters
+-----------------------------------
+[x = -18"]
+Run 1 Distance: 2.250 meters
+Run 2 Distance: 2.220 meters
+Run 3 Distance: 2.400 meters
+Run 4 Distance: 2.550 meters
+Run 5 Distance: 2.310 meters
+Run 6 Distance: 1.770 meters
+Run 7 Distance: 2.310 meters
+Run 8 Distance: 0.840 meters
+Run 9 Distance: 3.030 meters
+Run 10 Distance: 2.250 meters
+Run 11 Distance: 2.220 meters
+Run 12 Distance: 2.430 meters
+Run 13 Distance: 1.800 meters
+Run 14 Distance: 2.040 meters
+Run 15 Distance: 2.580 meters
+Median distance: 2.250 meters
+--
+Run 1 Distance: 3.540 meters
+Run 2 Distance: 2.400 meters
+Run 3 Distance: 2.640 meters
+Run 4 Distance: 2.400 meters
+Run 5 Distance: 2.130 meters
+Run 6 Distance: 2.010 meters
+Run 7 Distance: 2.280 meters
+Run 8 Distance: 3.540 meters
+Run 9 Distance: 2.340 meters
+Run 10 Distance: 2.670 meters
+Run 11 Distance: 2.010 meters
+Run 12 Distance: 2.400 meters
+Run 13 Distance: 2.250 meters
+Run 14 Distance: 2.670 meters
+Run 15 Distance: 2.340 meters
+Median distance: 2.400 meters
+--
+Run 1 Distance: 2.340 meters
+Run 2 Distance: 2.340 meters
+Run 3 Distance: 2.640 meters
+Run 4 Distance: 2.340 meters
+Run 5 Distance: 2.610 meters
+Run 6 Distance: 2.370 meters
+Run 7 Distance: 2.430 meters
+Run 8 Distance: 2.220 meters
+Run 9 Distance: 2.850 meters
+Run 10 Distance: 0.930 meters
+Run 11 Distance: 1.950 meters
+Run 12 Distance: 2.580 meters
+Run 13 Distance: 2.070 meters
+Run 14 Distance: 2.250 meters
+Run 15 Distance: 2.310 meters
+Median distance: 2.340 meters
+---------------------------------
+[x = -12"]
+Run 1 Distance: 2.250 meters
+Run 2 Distance: 3.060 meters
+Run 3 Distance: -0.750 meters
+Run 4 Distance: 2.340 meters
+Run 5 Distance: 2.580 meters
+Run 6 Distance: 2.220 meters
+Run 7 Distance: 2.310 meters
+Run 8 Distance: 4.230 meters
+Run 9 Distance: 4.560 meters
+Run 10 Distance: 2.250 meters
+Run 11 Distance: 1.440 meters
+Run 12 Distance: 4.620 meters
+Run 13 Distance: 2.550 meters
+Run 14 Distance: 2.250 meters
+Run 15 Distance: -1.380 meters
+Median distance: 2.310 meters
+--
+Run 1 Distance: 2.820 meters
+Run 2 Distance: -0.480 meters
+Run 3 Distance: 5.100 meters
+Run 4 Distance: 2.940 meters
+Run 5 Distance: 2.370 meters
+Run 6 Distance: -0.390 meters
+Run 7 Distance: 1.920 meters
+Run 8 Distance: 2.490 meters
+Run 9 Distance: -0.480 meters
+Run 10 Distance: 5.130 meters
+Run 11 Distance: 2.160 meters
+Run 12 Distance: 2.580 meters
+Run 13 Distance: 2.610 meters
+Run 14 Distance: -0.030 meters
+Run 15 Distance: 4.890 meters
+Median distance: 2.490 meters
+--
+Run 1 Distance: 2.040 meters
+Run 2 Distance: -0.540 meters
+Run 3 Distance: 2.280 meters
+Run 4 Distance: 1.710 meters
+Run 5 Distance: -0.540 meters
+Run 6 Distance: 2.250 meters
+Run 7 Distance: 2.040 meters
+Run 8 Distance: 2.490 meters
+Run 9 Distance: 2.580 meters
+Run 10 Distance: 2.520 meters
+Run 11 Distance: 2.250 meters
+Run 12 Distance: 1.500 meters
+Run 13 Distance: 2.160 meters
+Run 14 Distance: 2.490 meters
+Run 15 Distance: 1.470 meters
+Median distance: 2.160 meters
+-------------------------------
+[-6"]
+Run 1 Distance: 3.630 meters
+Run 2 Distance: 2.250 meters
+Run 3 Distance: 2.490 meters
+Run 4 Distance: 1.320 meters
+Run 5 Distance: 2.280 meters
+Run 6 Distance: 1.200 meters
+Run 7 Distance: 1.200 meters
+Run 8 Distance: 0.840 meters
+Run 9 Distance: 1.020 meters
+Run 10 Distance: 2.280 meters
+Run 11 Distance: 3.690 meters
+Run 12 Distance: 1.980 meters
+Run 13 Distance: 2.460 meters
+Run 14 Distance: 2.220 meters
+Run 15 Distance: 2.280 meters
+Median distance: 2.250 meters
+--
+Run 1 Distance: 2.040 meters
+Run 2 Distance: 2.220 meters
+Run 3 Distance: 3.870 meters
+Run 4 Distance: 3.750 meters
+Run 5 Distance: 2.220 meters
+Run 6 Distance: 2.250 meters
+Run 7 Distance: 2.280 meters
+Run 8 Distance: 1.980 meters
+Run 9 Distance: 1.980 meters
+Run 10 Distance: 1.350 meters
+Run 11 Distance: 1.980 meters
+Run 12 Distance: 2.460 meters
+Run 13 Distance: 2.040 meters
+Run 14 Distance: 2.340 meters
+Run 15 Distance: 0.600 meters
+Median distance: 2.220 meters
+--
+Run 1 Distance: 1.290 meters
+Run 2 Distance: 1.980 meters
+Run 3 Distance: 0.540 meters
+Run 4 Distance: 3.030 meters
+Run 5 Distance: 1.050 meters
+Run 6 Distance: 0.810 meters
+Run 7 Distance: 3.930 meters
+Run 8 Distance: 3.660 meters
+Run 9 Distance: 3.810 meters
+Run 10 Distance: 2.220 meters
+Run 11 Distance: 0.570 meters
+Run 12 Distance: 2.250 meters
+Run 13 Distance: 3.450 meters
+Run 14 Distance: 2.490 meters
+Run 15 Distance: 0.810 meters
+Median distance: 2.220 meters
+------------------------------------
+[0]
+Run 1 Distance: 2.010 meters
+Run 2 Distance: 2.310 meters
+Run 3 Distance: 2.340 meters
+Run 4 Distance: 2.520 meters
+Run 5 Distance: 2.400 meters
+Run 6 Distance: 2.550 meters
+Run 7 Distance: 2.280 meters
+Run 8 Distance: 1.410 meters
+Run 9 Distance: 2.070 meters
+Run 10 Distance: 1.740 meters
+Run 11 Distance: 2.520 meters
+Run 12 Distance: 2.490 meters
+Run 13 Distance: 1.920 meters
+Run 14 Distance: 1.650 meters
+Run 15 Distance: 2.250 meters
+Median distance: 2.280 meters
+--
+Run 1 Distance: 3.360 meters
+Run 2 Distance: 2.700 meters
+Run 3 Distance: 2.100 meters
+Run 4 Distance: 2.490 meters
+Run 5 Distance: 2.040 meters
+Run 6 Distance: 2.040 meters
+Run 7 Distance: 2.880 meters
+Run 8 Distance: 2.370 meters
+Run 9 Distance: 2.370 meters
+Run 10 Distance: 2.580 meters
+Run 11 Distance: 2.190 meters
+Run 12 Distance: 2.280 meters
+Run 13 Distance: 0.900 meters
+Run 14 Distance: 2.790 meters
+Run 15 Distance: 2.310 meters
+Median distance: 2.370 meters
+--
+Run 1 Distance: 2.580 meters
+Run 2 Distance: 2.070 meters
+Run 3 Distance: 2.130 meters
+Run 4 Distance: 2.430 meters
+Run 5 Distance: 2.070 meters
+Run 6 Distance: 2.610 meters
+Run 7 Distance: 2.310 meters
+Run 8 Distance: 2.280 meters
+Run 9 Distance: 2.400 meters
+Run 10 Distance: 2.490 meters
+Run 11 Distance: 2.190 meters
+Run 12 Distance: 2.790 meters
+Run 13 Distance: 1.980 meters
+Run 14 Distance: 2.340 meters
+Run 15 Distance: 1.860 meters
+Median distance: 2.310 meters
+-----------------------------------
+[+6"]
+Run 1 Distance: 2.010 meters
+Run 2 Distance: 5.670 meters
+Run 3 Distance: 5.190 meters
+Run 4 Distance: -0.510 meters
+Run 5 Distance: 2.370 meters
+Run 6 Distance: 2.580 meters
+Run 7 Distance: 5.400 meters
+Run 8 Distance: 5.100 meters
+Run 9 Distance: 2.250 meters
+Run 10 Distance: 5.220 meters
+Run 11 Distance: 2.040 meters
+Run 12 Distance: -0.570 meters
+Run 13 Distance: 5.160 meters
+Run 14 Distance: -0.870 meters
+Run 15 Distance: -0.900 meters
+Median distance: 2.370 meters
+--
+Run 1 Distance: 2.310 meters
+Run 2 Distance: 2.880 meters
+Run 3 Distance: 2.340 meters
+Run 4 Distance: -0.540 meters
+Run 5 Distance: 5.520 meters
+Run 6 Distance: 2.220 meters
+Run 7 Distance: 2.340 meters
+Run 8 Distance: 2.250 meters
+Run 9 Distance: 5.640 meters
+Run 10 Distance: 2.580 meters
+Run 11 Distance: 2.550 meters
+Run 12 Distance: 2.280 meters
+Run 13 Distance: 5.160 meters
+Run 14 Distance: 2.550 meters
+Run 15 Distance: -0.270 meters
+Median distance: 2.340 meters
+--
+Run 1 Distance: 5.790 meters
+Run 2 Distance: 5.190 meters
+Run 3 Distance: -0.510 meters
+Run 4 Distance: 4.890 meters
+Run 5 Distance: 5.400 meters
+Run 6 Distance: -0.540 meters
+Run 7 Distance: -0.270 meters
+Run 8 Distance: 2.610 meters
+Run 9 Distance: 2.340 meters
+Run 10 Distance: 2.610 meters
+Run 11 Distance: 2.550 meters
+Run 12 Distance: -0.570 meters
+Run 13 Distance: 2.220 meters
+Run 14 Distance: 2.010 meters
+Run 15 Distance: 2.220 meters
+Median distance: 2.340 meters
+-----------------------------
+[+12"]
+Run 1 Distance: 3.660 meters
+Run 2 Distance: 0.900 meters
+Run 3 Distance: 2.370 meters
+Run 4 Distance: 1.290 meters
+Run 5 Distance: 0.900 meters
+Run 6 Distance: 2.520 meters
+Run 7 Distance: 3.630 meters
+Run 8 Distance: 3.600 meters
+Run 9 Distance: 2.310 meters
+Run 10 Distance: 2.460 meters
+Run 11 Distance: 2.100 meters
+Run 12 Distance: 2.550 meters
+Run 13 Distance: 0.930 meters
+Run 14 Distance: 1.950 meters
+Run 15 Distance: 3.750 meters
+Median distance: 2.370 meters
+--
+Run 1 Distance: 2.400 meters
+Run 2 Distance: 1.110 meters
+Run 3 Distance: 2.040 meters
+Run 4 Distance: 2.370 meters
+Run 5 Distance: 1.140 meters
+Run 6 Distance: 2.310 meters
+Run 7 Distance: 4.020 meters
+Run 8 Distance: 2.400 meters
+Run 9 Distance: 2.580 meters
+Run 10 Distance: 2.340 meters
+Run 11 Distance: 1.320 meters
+Run 12 Distance: 2.370 meters
+Run 13 Distance: 1.080 meters
+Run 14 Distance: 1.410 meters
+Run 15 Distance: 1.560 meters
+Median distance: 2.310 meters
+--
+Run 1 Distance: 2.700 meters
+Run 2 Distance: 3.540 meters
+Run 3 Distance: 2.580 meters
+Run 4 Distance: 1.110 meters
+Run 5 Distance: 2.190 meters
+Run 6 Distance: 3.660 meters
+Run 7 Distance: 1.170 meters
+Run 8 Distance: 2.280 meters
+Run 9 Distance: 3.570 meters
+Run 10 Distance: 3.510 meters
+Run 11 Distance: 1.380 meters
+Run 12 Distance: 2.430 meters
+Run 13 Distance: 0.930 meters
+Run 14 Distance: 2.340 meters
+Run 15 Distance: 2.490 meters
+Median distance: 2.430 meters
+-------------------------------
+[+18"]
+Run 1 Distance: 1.170 meters
+Run 2 Distance: 2.370 meters
+Run 3 Distance: 2.130 meters
+Run 4 Distance: 7.830 meters
+Run 5 Distance: 1.740 meters
+Run 6 Distance: 2.370 meters
+Run 7 Distance: 4.470 meters
+Run 8 Distance: 5.940 meters
+Run 9 Distance: 0.450 meters
+Run 10 Distance: 1.740 meters
+Run 11 Distance: -0.600 meters
+Run 12 Distance: 2.970 meters
+Run 13 Distance: 5.910 meters
+Run 14 Distance: 2.730 meters
+Run 15 Distance: 2.610 meters
+Median distance: 2.370 meters
+--
+Run 1 Distance: 2.100 meters
+Run 2 Distance: 2.370 meters
+Run 3 Distance: 2.310 meters
+Run 4 Distance: 2.130 meters
+Run 5 Distance: 2.610 meters
+Run 6 Distance: 2.340 meters
+Run 7 Distance: 2.310 meters
+Run 8 Distance: 2.310 meters
+Run 9 Distance: 2.130 meters
+Run 10 Distance: 2.400 meters
+Run 11 Distance: 2.340 meters
+Run 12 Distance: 2.430 meters
+Run 13 Distance: 1.860 meters
+Run 14 Distance: 2.520 meters
+Run 15 Distance: 2.820 meters
+Median distance: 2.340 meters
+--
+Run 1 Distance: 3.570 meters
+Run 2 Distance: 2.130 meters
+Run 3 Distance: 2.370 meters
+Run 4 Distance: 2.340 meters
+Run 5 Distance: 2.130 meters
+Run 6 Distance: 2.340 meters
+Run 7 Distance: 2.520 meters
+Run 8 Distance: 2.850 meters
+Run 9 Distance: 1.800 meters
+Run 10 Distance: 2.070 meters
+Run 11 Distance: 2.580 meters
+Run 12 Distance: 2.610 meters
+Run 13 Distance: 2.340 meters
+Run 14 Distance: 2.310 meters
+Run 15 Distance: 2.400 meters
+Median distance: 2.340 meters
+------------------------------
+[+24"]
+Run 1 Distance: 2.160 meters
+Run 2 Distance: 2.370 meters
+Run 3 Distance: 2.400 meters
+Run 4 Distance: 1.890 meters
+Run 5 Distance: 2.550 meters
+Run 6 Distance: 2.940 meters
+Run 7 Distance: 1.980 meters
+Run 8 Distance: 2.550 meters
+Run 9 Distance: 2.460 meters
+Run 10 Distance: 2.550 meters
+Run 11 Distance: 2.130 meters
+Run 12 Distance: 2.310 meters
+Run 13 Distance: 3.030 meters
+Run 14 Distance: 0.150 meters
+Run 15 Distance: 2.670 meters
+Median distance: 2.400 meters
+--
+Run 1 Distance: -1.470 meters
+Run 2 Distance: 2.580 meters
+Run 3 Distance: 2.760 meters
+Run 4 Distance: 5.520 meters
+Run 5 Distance: 2.910 meters
+Run 6 Distance: 2.100 meters
+Run 7 Distance: 2.130 meters
+Run 8 Distance: 2.190 meters
+Run 9 Distance: 4.320 meters
+Run 10 Distance: 2.100 meters
+Run 11 Distance: 2.640 meters
+Run 12 Distance: 3.150 meters
+Run 13 Distance: 2.550 meters
+Run 14 Distance: 2.250 meters
+Run 15 Distance: 2.130 meters
+Median distance: 2.550 meters
+--
+Run 1 Distance: 2.040 meters
+Run 2 Distance: 2.370 meters
+Run 3 Distance: 1.830 meters
+Run 4 Distance: 1.530 meters
+Run 5 Distance: 2.610 meters
+Run 6 Distance: 3.240 meters
+Run 7 Distance: 2.580 meters
+Run 8 Distance: 2.610 meters
+Run 9 Distance: 3.090 meters
+Run 10 Distance: 1.800 meters
+Run 11 Distance: 2.310 meters
+Run 12 Distance: 2.730 meters
+Run 13 Distance: 2.910 meters
+Run 14 Distance: 2.280 meters
+Run 15 Distance: 3.210 meters
+Median distance: 2.580 meters
+--------------------------------
+[+30"]
+Run 1 Distance: 3.810 meters
+Run 2 Distance: 2.160 meters
+Run 3 Distance: 2.640 meters
+Run 4 Distance: 0.990 meters
+Run 5 Distance: 2.580 meters
+Run 6 Distance: 2.370 meters
+Run 7 Distance: 2.400 meters
+Run 8 Distance: 0.990 meters
+Run 9 Distance: 0.720 meters
+Run 10 Distance: 2.400 meters
+Run 11 Distance: 1.020 meters
+Run 12 Distance: 0.720 meters
+Run 13 Distance: 2.370 meters
+Run 14 Distance: 2.670 meters
+Run 15 Distance: 2.130 meters
+Median distance: 2.370 meters
+--
+Run 1 Distance: 2.490 meters
+Run 2 Distance: 1.170 meters
+Run 3 Distance: 3.840 meters
+Run 4 Distance: 2.430 meters
+Run 5 Distance: 3.840 meters
+Run 6 Distance: 0.960 meters
+Run 7 Distance: 3.840 meters
+Run 8 Distance: 2.640 meters
+Run 9 Distance: 2.670 meters
+Run 10 Distance: 2.400 meters
+Run 11 Distance: 2.370 meters
+Run 12 Distance: 2.430 meters
+Run 13 Distance: 2.370 meters
+Run 14 Distance: 2.130 meters
+Run 15 Distance: 2.190 meters
+Median distance: 2.430 meters
+--
+Run 1 Distance: 2.430 meters
+Run 2 Distance: 0.720 meters
+Run 3 Distance: 2.640 meters
+Run 4 Distance: 2.370 meters
+Run 5 Distance: 1.350 meters
+Run 6 Distance: 2.400 meters
+Run 7 Distance: 2.400 meters
+Run 8 Distance: 1.170 meters
+Run 9 Distance: 2.370 meters
+Run 10 Distance: 2.610 meters
+Run 11 Distance: 2.460 meters
+Run 12 Distance: 3.870 meters
+Run 13 Distance: 2.220 meters
+Run 14 Distance: 2.220 meters
+Run 15 Distance: 2.640 meters
+Median distance: 2.400 meters
+-------------------------------
+
